@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: white;
+    padding: 20px;
+  }
+  
+  .app {
+    max-width: 700px;
+    margin: auto;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .crypto-price {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .crypto-chart {
+    background: #282828;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
