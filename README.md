@@ -7,7 +7,7 @@ Project Idea: Crypto Live Tracker 📈🚀
 💡 Project Overview
 ----------------------------------------------
 Crypto Live Tracker is a sleek, real-time web app that dynamically fetches live crypto prices from Binance using WebSockets. It displays the latest price trends with smooth charts and leverages Redux for efficient state management. 
-----------------------------------------------
+
 
 
 🚀 Features
