@@ -1,9 +1,9 @@
 Project Idea: Crypto Live Tracker 📈🚀
-🔥 Build a real-time cryptocurrency price tracker using Binance API, WebSockets, Redux, and Chart.js for dynamic graph updates. Showcases UI finesse and state management expertise! 🔥
+🔥 Build a real-time cryptocurrency price tracker using Binance API, WebSockets, Redux, and Chart.js for dynamic graph updates. Showcases UI finesse and state management expertise! 🔥                               
 
 
 💡 Project Overview
-Crypto Live Tracker is a sleek, real-time web app that dynamically fetches live crypto prices from Binance using WebSockets. It displays the latest price trends with smooth charts and leverages Redux for efficient state management.
+Crypto Live Tracker is a sleek, real-time web app that dynamically fetches live crypto prices from Binance using WebSockets. It displays the latest price trends with smooth charts and leverages Redux for efficient state management.                                                                                                                                                                                                       
 
 
 🚀 Features
