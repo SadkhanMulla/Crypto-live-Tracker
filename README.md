@@ -11,7 +11,7 @@ Crypto Live Tracker is a sleek, real-time web app that dynamically fetches live 
 
 
 🚀 Features
-----------------------------------------------
+---------------------------------------------
 ✅ Real-time price updates using Binance WebSocket API
 
 ✅ Interactive charts with Chart.js for price visualization
